@@ -10,3 +10,5 @@ linklist.java- basic implementaion of creating a node and singly linked list in 
 sort.java-insertion sort in java using scanner class input.
 
 name.py-random name generator from a list of names.
+
+SelectionSort.py-selection sort algorithm in python
