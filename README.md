@@ -7,6 +7,6 @@ cipher.java-a java program to examplify basic caesarian cipher.only alphabets ha
 
 linklist.java- basic implementaion of creating a node and singly linked list in java taking user input.
 
-sort.java-selection sort in java using scanner class input.
+sort.java-insertion sort in java using scanner class input.
 
 name.py-random name generator from a list of names.
