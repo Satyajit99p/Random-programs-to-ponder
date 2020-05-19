@@ -12,3 +12,5 @@ sort.java-insertion sort in java using scanner class input.
 name.py-random name generator from a list of names.
 
 SelectionSort.py-selection sort algorithm in python
+
+SpeedTest.py-a GUI to check real time internet speed.
